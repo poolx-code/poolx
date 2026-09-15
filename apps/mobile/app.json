@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "PoolX",
+    "slug": "poolx-mobile",
+    "scheme": "poolx",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "bundleIdentifier": "social.poolx.app",
+      "associatedDomains": ["applinks:poolx.social"]
+    },
+    "android": {
+      "package": "social.poolx.app"
+    },
+    "plugins": ["expo-router"]
+  }
+}
